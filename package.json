@@ -1,0 +1,19 @@
+{
+  "name": "@nikolay-davydov/ajs_platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolay-Davydov/ajs_platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikolay-Davydov/ajs_platform/issues"
+  },
+  "homepage": "https://github.com/Nikolay-Davydov/ajs_platform#readme"
+}
